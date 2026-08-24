@@ -1,8 +1,8 @@
 kind=legal-public-export
-version_short=0.1.0
-version_build=1
+version_short=1.0.0
+version_build=21
 support_email=onuragames@gmail.com
 files=3
-privacy.html size=10585 sha256=79b7b57351c2672de5b9ec39087d229e1ba051fd19ee0ec5f438d5d7176dd9ac
-terms.html size=10676 sha256=39097f008ac63042691a5c752836243c9b8730facf3d8012a9543c0c27701fed
-about.html size=2991 sha256=a8b0f94e82ae11e3041365be55c864631c85a76be92df8a58256cf0a1e2f58e5
+privacy.html size=10980 sha256=d1f92317822ec59a929353ae59c455b280230cdb44cf60a0de898a17815811bb
+terms.html size=10854 sha256=b8c2db5f291a68a1183c33323c06e9096acf24c3a62636fb634606c51de984ff
+about.html size=3196 sha256=e68bbcfd925041fcba74af136f934b75a0d9619f705697290d561ed9ad523b55
